@@ -10,7 +10,7 @@ namespace MailHelperNet5
 {
     /// <summary>
     /// 제  목: Mailer
-    /// 작성자: sadtimez
+    /// 작성자: trillion-binary
     /// 작성일: 2019-06-21
     /// 설  명: Mailer 추상 클래스
     /// 수정자: 수정자<탭>수정내용<탭>수정일자

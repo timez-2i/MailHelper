@@ -10,7 +10,7 @@ namespace MailHelperNet5
 {
     /// <summary>
     /// 제  목: NcpMailer
-    /// 작성자: sadtimez
+    /// 작성자: trillion-binary
     /// 작성일: 2019-06-21
     /// 설  명: Ncp Cloud Outbound Mailer 를 사용한 Mailer
     /// 수정자: 수정자<탭>수정내용<탭>수정일자
